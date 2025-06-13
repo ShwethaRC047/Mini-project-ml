@@ -1,0 +1,11 @@
+temperature,humidity,soil_moisture,light_intensity,health_status
+28.5,60.2,35.5,600,Healthy
+32.1,45.3,20.1,350,Unhealthy
+25.0,70.0,45.3,700,Healthy
+30.4,55.2,30.0,500,Moderate
+35.0,40.5,18.0,400,Unhealthy
+27.2,66.0,38.9,680,Healthy
+33.8,50.1,25.6,450,Moderate
+29.0,61.5,32.0,600,Healthy
+36.0,35.0,15.3,300,Unhealthy
+31.5,48.0,28.0,520,Moderate
